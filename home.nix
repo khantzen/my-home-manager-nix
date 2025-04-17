@@ -29,6 +29,9 @@
     pkgs.fd
     pkgs.rofi
 
+    pkgs.zellij
+    pkgs.starship
+
     pkgs.polybar
     pkgs.nerd-fonts.jetbrains-mono
     pkgs.nodejs_22
